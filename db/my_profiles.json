@@ -1,0 +1,16 @@
+{
+  "code":0,
+  "data":{
+    "id":1,
+    "name":"董岳",
+    "birthday":"1990-7-18",
+    "profession":"前端攻城师",
+    "education":"本科",
+    "exp":"4年",
+    "email":"dyh425718@163.com",
+    "frontSkills":"javascript , html ,css , jquery, html5 , css3 , angularjs , bootstrap , less ,正则",
+    "backSkills":"了解PHP,.net",
+    "otherSkills":"git",
+    "technicalSkill":"烧火，炒菜，做饭 ，弹琴，唱歌，走路 和 吃饭. (¯^¯ )"
+  }
+}
