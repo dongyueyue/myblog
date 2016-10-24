@@ -2,7 +2,7 @@
 
 使用 angularjs bootstrap less 搭建。用于展示我的个人信息，之前所做的项目和自己做的一些作品。
 
-githubpages:  https://dongyueyue.github.io/yueBlog/
+githubpages:  https://dongyueyue.github.io/myblog/
 
 项目结构说明：
   
